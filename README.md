@@ -1,4 +1,4 @@
-# 👗Virtual Fitting Rooms System Design
+# 👗Real-time Virtual Fitting Rooms
 ## Introduction
 ### 💨Problem Statement
 
